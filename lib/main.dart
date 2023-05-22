@@ -1,4 +1,3 @@
-import 'dart:math';
 import 'package:colorchanging/l10n/l10n.dart';
 import 'package:colorchanging/screen/home_screen.dart';
 import 'package:flutter/material.dart';
